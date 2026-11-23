@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="司晨宇 · 数据运营 / 经营分析 · 2028 届 · 杭州" width="860">
+  <img src="./assets/banner.png" alt="司晨宇 · 数据运营 / 经营分析 · 2028 届 · 杭州" width="860">
   <br><br>
   <a href="mailto:si_chenyv@163.com"><img src="https://img.shields.io/badge/status-open_to_internship-0F6E56?style=flat-square" alt="正在寻找数据运营 / 经营分析方向的实习"></a>
   <img src="https://img.shields.io/badge/Python-pandas_openpyxl-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python：pandas / openpyxl">
