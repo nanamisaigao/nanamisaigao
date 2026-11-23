@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img">
 <title>司晨宇 · 数据运营 / 经营分析</title>
-<desc>个人主页头图：姓名、求职方向、技能关键词与装饰性柱状图</desc>
+<desc>个人主页头图：姓名、方向、技术关键词与装饰性柱状图</desc>
 <rect x="0" y="0" width="900" height="210" rx="16" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="1"/>
 <rect x="0" y="0" width="900" height="5" rx="2" fill="#185FA5"/>
 <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Hiragino Sans GB',Arial,sans-serif">
-<text x="48" y="66" font-size="30" font-weight="500" fill="#2C2C2A">司晨宇 <tspan font-size="20" font-weight="400" fill="#888780">/ nanami</tspan></text>
-<text x="48" y="102" font-size="16" font-weight="400" fill="#444441">数据运营 · 经营分析   |   2028 届   |   杭州</text>
-<text x="48" y="134" font-size="13" font-weight="400" fill="#5F5E5A">SQL 口径设计  ·  pandas  ·  Power BI  ·  Cohort / RFM  ·  把结论落成可监控指标</text>
-<text x="48" y="170" font-size="13" font-weight="500" fill="#0F6E56">正在寻找数据运营 / 经营分析方向的实习机会</text>
+<text x="48" y="64" font-size="30" font-weight="500" fill="#2C2C2A">司晨宇 <tspan font-size="20" font-weight="400" fill="#888780">/ nanami</tspan></text>
+<rect x="48" y="78" width="44" height="3" rx="1.5" fill="#185FA5"/>
+<text x="48" y="112" font-size="16" font-weight="400" fill="#444441">数据运营 · 经营分析   |   Data &amp; Business Analytics</text>
+<text x="48" y="144" font-size="13" font-weight="400" fill="#5F5E5A">SQL  ·  pandas  ·  Power BI  ·  Cohort / RFM  ·  指标口径设计</text>
+<text x="48" y="178" font-size="13" font-weight="500" fill="#0F6E56">用数据回答业务问题，用看板交付结论</text>
 <text x="852" y="192" font-size="11" font-weight="400" fill="#888780" text-anchor="end">2026.11</text>
 </g>
 <g>

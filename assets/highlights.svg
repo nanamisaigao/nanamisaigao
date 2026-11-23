@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img">
+<title>三个关键结论</title>
+<desc>三张指标卡：折扣订单亏损额、一次性用户占比、数据清洗保留率</desc>
+<g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Hiragino Sans GB',Arial,sans-serif">
+<rect x="20" y="16" width="270" height="128" rx="12" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1"/>
+<text x="155" y="78" font-size="27" font-weight="500" fill="#0C447C" text-anchor="middle">13.5 万美元</text>
+<text x="155" y="112" font-size="13" font-weight="400" fill="#185FA5" text-anchor="middle">折扣 ≥20% 订单合计亏损</text>
+<rect x="315" y="16" width="270" height="128" rx="12" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1"/>
+<text x="450" y="78" font-size="27" font-weight="500" fill="#0C447C" text-anchor="middle">97%</text>
+<text x="450" y="112" font-size="13" font-weight="400" fill="#185FA5" text-anchor="middle">9.9 万订单里只买一次的用户</text>
+<rect x="610" y="16" width="270" height="128" rx="12" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1"/>
+<text x="745" y="78" font-size="27" font-weight="500" fill="#0C447C" text-anchor="middle">80.7%</text>
+<text x="745" y="112" font-size="13" font-weight="400" fill="#185FA5" text-anchor="middle">25,746 → 20,784 行清洗结果</text>
+</g>
+</svg>
