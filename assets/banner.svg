@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img">
+<title>司晨宇 · 数据运营 / 经营分析</title>
+<desc>个人主页头图：姓名、求职方向、技能关键词与装饰性柱状图</desc>
+<rect x="0" y="0" width="900" height="210" rx="16" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="1"/>
+<rect x="0" y="0" width="900" height="5" rx="2" fill="#185FA5"/>
+<g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Hiragino Sans GB',Arial,sans-serif">
+<text x="48" y="66" font-size="30" font-weight="500" fill="#2C2C2A">司晨宇 <tspan font-size="20" font-weight="400" fill="#888780">/ nanami</tspan></text>
+<text x="48" y="102" font-size="16" font-weight="400" fill="#444441">数据运营 · 经营分析   |   2028 届   |   杭州</text>
+<text x="48" y="134" font-size="13" font-weight="400" fill="#5F5E5A">SQL 口径设计  ·  pandas  ·  Power BI  ·  Cohort / RFM  ·  把结论落成可监控指标</text>
+<text x="48" y="170" font-size="13" font-weight="500" fill="#0F6E56">正在寻找数据运营 / 经营分析方向的实习机会</text>
+<text x="852" y="192" font-size="11" font-weight="400" fill="#888780" text-anchor="end">2026.11</text>
+</g>
+<g>
+<rect x="650" y="120" width="28" height="50" rx="3" fill="#B5D4F4"/>
+<rect x="692" y="95" width="28" height="75" rx="3" fill="#85B7EB"/>
+<rect x="734" y="108" width="28" height="62" rx="3" fill="#B5D4F4"/>
+<rect x="776" y="70" width="28" height="100" rx="3" fill="#378ADD"/>
+<rect x="818" y="42" width="28" height="128" rx="3" fill="#185FA5"/>
+<line x1="640" y1="170" x2="856" y2="170" stroke="#D3D1C7" stroke-width="1"/>
+<polyline points="664,112 706,87 748,100 790,62 832,34" fill="none" stroke="#0F6E56" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="664" cy="112" r="3" fill="#0F6E56"/>
+<circle cx="706" cy="87" r="3" fill="#0F6E56"/>
+<circle cx="748" cy="100" r="3" fill="#0F6E56"/>
+<circle cx="790" cy="62" r="3" fill="#0F6E56"/>
+<circle cx="832" cy="34" r="3" fill="#0F6E56"/>
+</g>
+</svg>
